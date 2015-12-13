@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SRM_BillingAppJSONWebService</string>
+    <string name="radio1">10 %</string>
+    <string name="radio2">20 %</string>
+</resources>
